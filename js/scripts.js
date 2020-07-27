@@ -56,7 +56,7 @@
       preload: [0, 1]
     },
     image: {
-      tError: '<a href="%url%">Click here #%curr%</a> to view project.'
+      tError: '<a href="%url%" target="_blank"> Click here #%curr%</a> to view project.'
     }
   });
 
